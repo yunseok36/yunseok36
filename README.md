@@ -2,6 +2,8 @@
 <p align="center">상상은 현실을 바꾸는 가장 강력한 도구입니다.</p>
 <p align="center">Creative Thinker | Code Dreamer | Java Backend Developer</p>
 
+![My Creative Mind]("C:\Users\ys030\undraw_goals_0pov.svg")
+
 
 
 <h2>🛠️ My Tech Stack</h2>
