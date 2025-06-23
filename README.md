@@ -17,33 +17,33 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<p align="center">
-<h2>🎨 My Creative Side</h2>
 
+<h2>🎨 My Creative Side</h2>
+<p align="center">
 - 🌌 상상을 실현하는 것에 흥미를 느낍니다.
 - 🎮 직접 기획한 것들을 만들어내고 싶습니다.
 - 🧩 사용자의 문제를 "새로운 방식"으로 해결하는 스타일입니다.
 </p>
 
-<p align="center">
-<h2>📂 Notable Projects</h2>
 
+<h2>📂 Notable Projects</h2>
+<p align="center">
 - 🚀 관광버스: 날씨 API와 관광지를 결합한 맞춤 여행 플래너
 - 🧾 깐부대출: 친구 간 대출 기능을 지원하는 개인 금융 앱
 - 🧠 SGG: 사용자의 감정에 따른 콘텐츠 및 행동 추천 AI
 </p>
 
-<p align="center">
-<h2>👤 About Me</h2>
 
+<h2>👤 About Me</h2>
+<p align="center">
 - 🎓 Java 백엔드 개발자를 목표로 공부 중
 - 🛡️ 정보보안과 시스템의 안정성에도 관심있음
 - ✍️ 기획서 작성과 아이디어 정리
 </p>
 
-<p align="center">
-<h2>📫 Let's connect</h2>
 
+<h2>📫 Let's connect</h2>
+<p align="center">
 - ✉️ Email: kys010306@gmail.com
 - 💬 PhoneNo: 010-5351-3927
 - 🧭 Portfolio: [Notion/Blog URL]
