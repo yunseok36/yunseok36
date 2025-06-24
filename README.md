@@ -1,4 +1,4 @@
-![icons-1151_256](https://github.com/user-attachments/assets/c7a14997-6099-4152-9f5b-e8c0f04654d9)<h1 align="center">Welcome to my world 🌍</h1>
+<h1 align="center">Welcome to my world 🌍</h1>
 
 <p align="center">  
 상상은 현실을 바꾸는 가장 강력한 도구입니다. <br/>
