@@ -2,7 +2,7 @@
 
 <p align="center">  
 상상은 현실을 바꾸는 가장 강력한 도구입니다. <br/>
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200"/>
+<img src="https://giphy.com/gifs/space-rocket-astronaut-xT9IgG50Fb7Mi0prBC" width="200"/>
 </p>
 
 <p align="center">
@@ -55,7 +55,3 @@
 - 🌐 Portfolio: [Notion/Blog](https://your-portfolio-url.com)
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
-</div>
