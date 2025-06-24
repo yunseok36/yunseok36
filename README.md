@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to my world 🌍</h1>
+![icons-1151_256](https://github.com/user-attachments/assets/c7a14997-6099-4152-9f5b-e8c0f04654d9)<h1 align="center">Welcome to my world 🌍</h1>
 
 <p align="center">  
 상상은 현실을 바꾸는 가장 강력한 도구입니다. <br/>
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+<img src="https://cdn.pixabay.com/animation/2022/10/12/22/41/22-41-33-918_512.gif" width="200"/>
 </p>
 
 <p align="center">
