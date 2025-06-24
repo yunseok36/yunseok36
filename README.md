@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my world 🌍</h1>
 
 <p align="center">  
-상상은 현실을 바꾸는 가장 강력한 도구입니다. </br>
- <img src = "https://giphy.com/gifs/space-rocket-astronaut-xT9IgG50Fb7Mi0prBC" width="200"/>
+상상은 현실을 바꾸는 가장 강력한 도구입니다. <br/>
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
