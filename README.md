@@ -2,7 +2,7 @@
 
 <p align="center">  
 상상은 현실을 바꾸는 가장 강력한 도구입니다. <br/>
-<img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
