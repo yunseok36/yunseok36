@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my world 🌍</h1>
 
-<p align="center">  
-상상은 현실을 바꾸는 가장 강력한 도구입니다. <br/>
+<p align="center">
 <img src="https://cdn.pixabay.com/animation/2022/10/12/22/41/22-41-33-918_512.gif" width="200"/>
+상상은 현실을 바꾸는 가장 강력한 도구입니다. <br/>
 </p>
 
 <p align="center">
