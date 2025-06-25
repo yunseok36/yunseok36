@@ -53,6 +53,6 @@
 
 - ✉️ Email: [kys010306@gmail.com](mailto:kys010306@gmail.com)  
 - 📞 Phone: 010-5351-3927  
-- 🌐 Portfolio: [Notion/Blog](https://your-portfolio-url.com)
+- 🌐 Portfolio: [MiriCanbus](https://your-portfolio-url.com)
 
 ---
