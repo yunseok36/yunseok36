@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://cdn.pixabay.com/animation/2022/10/12/22/41/22-41-33-918_512.gif" width="200"/></br>
-<h2>상상은 현실을 바꾸는 가장 강력한 도구입니다.</h2> <br/>
+<h2 align="center">상상은 현실을 바꾸는 가장 강력한 도구입니다.</h2> <br/>
 </p>
 
 <p align="center">
