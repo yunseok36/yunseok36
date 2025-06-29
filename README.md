@@ -31,8 +31,9 @@
 </div>
 
 ---
-
-- 🌱 I’m currently learning **Blockchain, intelligent AI**
+### 🌱 I’m currently learning 
+- Blockchain
+- intelligent AI
 
 ### 🎨 My Creative Side
 - 🎈 상상을 실현하는 것에 즐거움을 느낍니다.  
