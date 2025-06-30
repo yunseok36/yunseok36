@@ -37,18 +37,30 @@
 ---
 
 ## 🌱 Currently Learning
-- 🪙 Blockchain
-- 🤖 Intelligent AI
+
+> 계속 배우고 성장하는 것을 좋아합니다.  
+> *Always eager to learn and grow.*
+
+- 🪙 **Blockchain**  
+  *Decentralized systems and smart contracts*
+- 🤖 **Intelligent AI**  
+  *Building smart solutions with machine learning*
 
 ---
 
 ## 🎨 My Creative Side
-- 🎈 상상을 실현하는 것을 즐깁니다  
-  *I enjoy turning imagination into reality*
-- 🛠 직접 기획한 것들을 만들어냅니다  
-  *I love building what I envision myself*
-- 💡 사용자 문제를 새로운 방식으로 해결합니다  
-  *I solve user problems in creative ways*
+
+> 사용자의 문제를 새로운 관점에서 바라보고, 상상력을 실현하는 개발자.  
+> *A developer who turns imagination into reality and solves problems creatively.*
+
+✅ 🎈 **상상을 실현하는 것을 즐깁니다**  
+*I enjoy turning imagination into reality*
+
+✅ 🛠 **직접 기획한 것들을 만들어냅니다**  
+*I love building what I envision myself*
+
+✅ 💡 **사용자 문제를 새로운 방식으로 해결합니다**  
+*I solve user problems in creative ways*
 
 ---
 
@@ -65,11 +77,15 @@
 ---
 
 ## 👤 About Me
-- ☕ Java 백엔드 개발자 목표로 공부 중  
+
+> 한눈에 보는 나의 핵심 포인트!  
+> *Key points about me at a glance.*
+
+- ☕ **Java 백엔드 개발자 목표로 공부 중**  
   *Aspiring Java backend developer*
-- 🧩 정보보안 + 시스템의 안정성에도 관심  
+- 🧩 **정보보안 + 시스템의 안정성에도 관심**  
   *Interested in security and system reliability*
-- ✍️ 기획과 아이디어 정리에 강점  
+- ✍️ **기획과 아이디어 정리에 강점**  
   *Strong at planning and organizing ideas*
 
 ---
