@@ -1,105 +1,98 @@
 <h1 align="center">🌍 Welcome to My World 🌍</h1>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2022/10/12/22/41/22-41-33-918_512.gif" width="200"/>
+  <img src="https://cdn.pixabay.com/animation/2022/10/12/22/41/22-41-33-918_512.gif" width="160" alt="Imagination"/>
 </p>
 
 <p align="center">
-  <b>🧠 Creative Thinker</b> • <b>💻 Code Dreamer</b> • <b>☕ Java Backend Developer</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_GITHUB_USERNAME" />
+  <strong>🧠 Creative Thinker</strong> • 
+  <strong>💻 Code Dreamer</strong> • 
+  <strong>☕ Java Backend Developer</strong>
 </p>
 
 ---
 
-## ✨ Quotes
+## ✨ About Me
+
+- ☕ **Java 백엔드 개발자 목표로 공부 중**  
+  *Aspiring Java backend developer*
+- 🧩 **정보보안과 시스템 안정성에도 관심**  
+  *Interested in security and system reliability*
+- ✍️ **기획과 아이디어 정리에 강점**  
+  *Strong at planning and organizing ideas*
+- 🌱 **Blockchain과 AI도 배우는 중**  
+  *Currently learning Blockchain and AI*
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+## 🌟 Quote 
 
 > “상상은 현실을 바꾸는 가장 강력한 도구입니다.”  
-> *“Imagination is the most powerful tool to change reality.”*
+> *Imagination is the most powerful tool to change reality.*
 
 ---
 
-## 🚀 Tech Stack
+## 🧩 Notable Projects | 주요 프로젝트
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-> 계속 배우고 성장하는 것을 좋아합니다.  
-> *Always eager to learn and grow.*
-
-- 🪙 **Blockchain**  
-  *Decentralized systems and smart contracts*
-- 🤖 **Intelligent AI**  
-  *Building smart solutions with machine learning*
+| ✅ 프로젝트 이름 | 설명 (Korean) | Description (English) | 링크 |
+|---|---|---|---|
+| **매치업** | 성적과 성격을 입력해 팀을 매칭 | Team matching based on grades and personality | [🔗 View](#) |
+| **관광버스** | 날씨·관광지 API → 감정에 맞는 여행 플래너 | Emotion-based travel planner using weather & tourism API | [🔗 View](#) |
+| **깐부대출** | 친구 간 대출 기능 지원 금융 앱 | Personal finance app for friend-to-friend loans | [🔗 View](#) |
+| **긴급차량 탐지 AI** | 긴급차량 우선 통행 탐지 AI | AI for detecting and prioritizing emergency vehicles | [🔗 View](#) |
+| **MOODI-TREE** | 감정 기반 콘텐츠 추천 서비스 | Emotion-based content & activity recommendation service | [🔗 View](#) |
 
 ---
 
 ## 🎨 My Creative Side
 
-> 사용자의 문제를 새로운 관점에서 바라보고, 상상력을 실현하는 개발자.  
-> *A developer who turns imagination into reality and solves problems creatively.*
-
-✅ 🎈 **상상을 실현하는 것을 즐깁니다**  
-*I enjoy turning imagination into reality*
-
-✅ 🛠 **직접 기획한 것들을 만들어냅니다**  
-*I love building what I envision myself*
-
-✅ 💡 **사용자 문제를 새로운 방식으로 해결합니다**  
-*I solve user problems in creative ways*
+- 🎈 **상상을 실현하는 것을 즐깁니다**  
+  *I enjoy turning imagination into reality*
+- 🛠 **직접 기획한 것을 만들어냅니다**  
+  *I love building what I envision*
+- 💡 **사용자 문제를 새로운 방식으로 해결합니다**  
+  *I solve user problems in creative ways*
 
 ---
 
-## 🧩 Notable Projects
+## 🧭 Currently Learning
 
-| ✅ 프로젝트 이름 | 요약 | 링크 |
-|---|---|---|
-| **매치업** | 성적 + 성격을 입력하면 팀을 매칭해주는 시스템 | [🔗 Link](#) |
-| **관광버스** | 날씨 + 관광지 API → 감정에 맞는 여행 플래너 | [🔗 Link](#) |
-| **깐부대출** | 친구 간 대출 기능을 지원하는 개인 금융 앱 | [🔗 Link](#) |
-| **긴급차량 탐지 AI** | 긴급차량 우선 통행 탐지 AI | [🔗 Link](#) |
-| **MOODI-TREE** | 감정 기반 콘텐츠 및 활동 추천 AI 서비스 | [🔗 Link](#) |
+- 🪙 **Blockchain**  
+  *Decentralized systems and smart contracts*
+- 🤖 **Intelligent AI**  
+  *Machine learning for smarter products*
 
 ---
 
-## 👤 About Me
-
-> 한눈에 보는 나의 핵심 포인트!  
-> *Key points about me at a glance.*
-
-- ☕ **Java 백엔드 개발자 목표로 공부 중**  
-  *Aspiring Java backend developer*
-- 🧩 **정보보안 + 시스템의 안정성에도 관심**  
-  *Interested in security and system reliability*
-- ✍️ **기획과 아이디어 정리에 강점**  
-  *Strong at planning and organizing ideas*
-
----
-
-## 📬 Let’s Connect!
+## 📬 Let’s Connect
 
 <p align="center">
-  📧 <a href="mailto:kys010306@gmail.com">kys010306@gmail.com</a> • 
-  📞 010-5351-3927 • 
-  🌐 <a href="https://your-portfolio-url.com">Portfolio: MiriCanbus</a>
+  <a href="mailto:kys010306@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
+  </a>
+  <a href="https://your-portfolio-url.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>  
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐️ If you like my work, feel free to star this repo ⭐️
+  ⭐️ If you like my work, feel free to star this repo ⭐️  
 </p>
