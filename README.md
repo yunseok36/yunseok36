@@ -14,14 +14,10 @@
 
 ## ✨ About Me
 
-- ☕ **Java 백엔드 개발자 목표로 공부 중**  
-  *Aspiring Java backend developer*
-- 🧩 **정보보안과 시스템 안정성에도 관심**  
-  *Interested in security and system reliability*
-- ✍️ **기획과 아이디어 정리에 강점**  
-  *Strong at planning and organizing ideas*
-- 🌱 **Blockchain과 AI도 배우는 중**  
-  *Currently learning Blockchain and AI*
+- ☕ **Java 백엔드 개발자 목표로 공부 중**  // Aspiring Java backend developer
+- 🛡️ **정보보안과 시스템 안정성에도 관심**  // Interested in security and system reliability
+- 💡 **기획과 아이디어 정리에 강점**  // Strong at planning and organizing ideas
+- 🌱 **Blockchain과 AI도 배우는 중**  // Currently learning Blockchain and AI
 
 ---
 
