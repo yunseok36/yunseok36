@@ -82,15 +82,11 @@
 
 ## 📬 Let’s Connect
 
-<a href="mailto:kys010306@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
-</a>
-&nbsp;
-<strong>📞 Phone:</strong> 010-5351-3927
-&nbsp;
-<a href="https://your-portfolio-url.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>  
-</a>
+<p align="center">
+  📧 <a href="mailto:kys010306@gmail.com">kys010306@gmail.com</a> &nbsp; | &nbsp;
+  📞 010-5351-3927 &nbsp; | &nbsp;
+  🌐 <a href="https://your-portfolio-url.com">Portfolio</a>
+</p>
 
 
 ---
