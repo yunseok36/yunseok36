@@ -45,13 +45,13 @@
 
 ## 🧩 Notable Projects | 주요 프로젝트
 
-| ✅ 프로젝트 이름 | 설명 (Korean) | Description (English) | 링크 |
+| ✅ PROJECT | Description | 링크 |
 |---|---|---|---|
-| **매치업** | 성적과 성격을 입력해 팀을 매칭 | Team matching based on grades and personality | [🔗 View](#) |
-| **관광버스** | 날씨·관광지 API → 감정에 맞는 여행 플래너 | Emotion-based travel planner using weather & tourism API | [🔗 View](#) |
-| **깐부대출** | 친구 간 대출 기능 지원 금융 앱 | Personal finance app for friend-to-friend loans | [🔗 View](#) |
-| **긴급차량 탐지 AI** | 긴급차량 우선 통행 탐지 AI | AI for detecting and prioritizing emergency vehicles | [🔗 View](#) |
-| **MOODI-TREE** | 감정 기반 콘텐츠 추천 서비스 | Emotion-based content & activity recommendation service | [🔗 View](#) |
+| **매치업** | 성적과 성격을 입력해 팀을 매칭 | [🔗 View](#) |
+| **관광버스** | 날씨·관광지 API → 감정에 맞는 여행 플래너 | [🔗 View](#) |
+| **깐부대출** | 친구 간 대출 기능 지원 금융 앱 |[🔗 View](#) |
+| **긴급차량 탐지 AI** | 긴급차량 우선 통행 탐지 AI | [🔗 View](#) |
+| **MOODI-TREE** | 감정 기반 콘텐츠 추천 서비스 | [🔗 View](#) |
 
 ---
 
