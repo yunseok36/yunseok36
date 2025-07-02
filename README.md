@@ -65,8 +65,9 @@
 
 ## 🧭 Currently Learning
 
-- 🪙 **Blockchain** ➡️ *Decentralized systems and smart contracts*
-- 🤖 **Intelligent AI** ➡️ *Machine learning for smarter products*
+- 🪙 **Blockchain** ➡️ *Smart contracts, decentralized apps*
+- 🤖 **AI / ML** ➡️ *Building intelligent systems*
+- ☕ **Java** ➡️ *Enterprise-level backend with Spring Boot*
 
 ---
 
