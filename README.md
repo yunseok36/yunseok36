@@ -5,8 +5,11 @@
   <img src="https://cdn.pixabay.com/animation/2022/10/12/22/41/22-41-33-918_512.gif" width="160" alt="Imagination"/>
 </p>
 
-
-
+<p align="center">
+  <strong>🧠 Creative Thinker</strong> • 
+  <strong>💻 Code Dreamer</strong> • 
+  <strong>☕ Java Backend Developer</strong>
+</p>
 
 ---
 
