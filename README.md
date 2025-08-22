@@ -16,7 +16,7 @@
 ## ✨ About Me
 
 
-- 🛡️ **정보보안과 네트워크에도 관심**  // Interested in security and network
+
 - 💡 **기획과 아이디어 정리에 강점**  // Strong at planning and organizing ideas
 
 ---
