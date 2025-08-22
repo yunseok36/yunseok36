@@ -17,7 +17,6 @@
 
 
 
-- 💡 **기획과 아이디어 정리에 강점**  // Strong at planning and organizing ideas
 
 ---
 
