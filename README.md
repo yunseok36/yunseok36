@@ -39,7 +39,6 @@
 
 ## 🌟 Quote 
 
-> *Imagination is the most powerful tool to change reality.*
 
 ---
 
