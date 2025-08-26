@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <strong>☕ Java Backend Developer</strong>
 </p>
 
 ---
