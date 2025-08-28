@@ -66,7 +66,6 @@
 
 ## 🧭 Currently Learning
 
-- 🤖 **Intelligent AI** ➡️ *Machine learning for smarter products*
 - ☕ **Java** ➡️ *Solid programming fundamentals and backend foundations*
 
 ---
