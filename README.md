@@ -66,7 +66,6 @@
 
 ## 🧭 Currently Learning
 
-- ☕ **Java** ➡️ *Solid programming fundamentals and backend foundations*
 
 ---
 
