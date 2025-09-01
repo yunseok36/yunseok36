@@ -1,8 +1,7 @@
 <h1 align="center">🚀 Welcome to My World ⭐️</h1>
 
 
-<p align="center">
-</p>
+
 
 <p align="center">
   <strong>🧠 Creative Thinker</strong> • 
