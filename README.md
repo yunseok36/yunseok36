@@ -39,8 +39,6 @@
 ## 🌟 Quote 
 
 > “상상은 현실을 바꾸는 가장 강력한 도구입니다.”  
-> *Imagination is the most powerful tool to change reality.*
-
 ---
 
 ## 🧩 Notable Projects | 주요 프로젝트
