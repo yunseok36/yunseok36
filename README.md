@@ -64,7 +64,9 @@
 
 ## 🧭 Currently Learning
 
-
+- 🪙 **Blockchain** ➡️ *Decentralized systems and smart contracts*
+- 🤖 **Intelligent AI** ➡️ *Machine learning for smarter products*
+- ☕ **Java** ➡️ *Solid programming fundamentals and backend foundations*
 
 ---
 
