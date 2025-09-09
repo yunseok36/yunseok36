@@ -72,9 +72,7 @@
 
 ## 📬 Let’s Connect
 
-<p align="center">
-  📧 <a href="mailto:kys010306@gmail.com">kys010306@gmail.com</a> &nbsp; | &nbsp;
-</p>
+
 
 
 ---
