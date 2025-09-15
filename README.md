@@ -39,8 +39,7 @@
 ## 🌟 Quote 
 
   
-> *Imagination is the most powerful tool to change reality.*
- 
+
 ---
 
 ## 🧩 Notable Projects | 주요 프로젝트
