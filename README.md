@@ -81,6 +81,10 @@
 
 ---
 
+
 <p align="center">
+  🙏 Thank you for visiting my profile!  
+  <br/>
+  🤝 I'm always open to collaboration—let's create something great together.
 </p>
 
