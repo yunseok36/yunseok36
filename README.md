@@ -82,6 +82,5 @@
 ---
 
 <p align="center">
-  🤝 I'm always open to collaboration—let's create something great together.
 </p>
 
