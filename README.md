@@ -39,7 +39,6 @@
 ## 🌟 Quote 
 
 - 🪙 **Blockchain** ➡️ *Decentralized systems and smart contracts*
-- 🤖 **Intelligent AI** ➡️ *Machine learning for smarter products*
 
 
 ---
