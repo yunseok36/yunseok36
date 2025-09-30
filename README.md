@@ -38,7 +38,6 @@
 
 ## 🌟 Quote 
 
-- 🪙 **Blockchain** ➡️ *Decentralized systems and smart contracts*
 
 
 ---
