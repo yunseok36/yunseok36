@@ -15,7 +15,7 @@
 
 ## ✨ About Me
 
-- ☕ **Java 백엔드 개발자 목표로 공부 중**  // Aspiring Java backend developer
+
 
 
 
