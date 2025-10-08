@@ -1,5 +1,7 @@
 <h1 align="center">🚀 Welcome to My World ⭐️</h1>
-
+<p align="center">
+  <img src="https://cdn.pixabay.com/animation/2022/10/12/22/41/22-41-33-918_512.gif" width="160" alt="Imagination"/>
+</p>
 
 <p align="center">
   <strong>🧠 Creative Thinker</strong> • 
