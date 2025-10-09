@@ -83,7 +83,6 @@
 ---
 
 <p align="center">
-  📞 010-5351-3927 &nbsp; | &nbsp;
   🌐 <a href="https://your-portfolio-url.com">Portfolio</a>
 </p>
 
