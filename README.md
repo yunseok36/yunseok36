@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
-
+  <strong>🧠 Creative Thinker</strong> • 
+  <strong>💻 Code Dreamer</strong> • 
+  <strong>☕ Backend Developer</strong>
 </p>
 
 
