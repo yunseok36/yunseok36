@@ -6,7 +6,6 @@
 
 <p align="center">
   <strong>🧠 Creative Thinker</strong> • 
-  <strong>💻 Code Dreamer</strong> • 
 </p>
 
 
