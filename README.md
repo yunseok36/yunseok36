@@ -85,7 +85,7 @@
 
 <p align="center">
   📧 <a href="mailto:kys010306@gmail.com">kys010306@gmail.com</a> &nbsp; | &nbsp;
-  📞 010-5351-3927 &nbsp; | &nbsp;
+
 </p>
 
 
