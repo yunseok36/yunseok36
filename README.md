@@ -5,7 +5,6 @@
 
 
 <p align="center">
-  <strong>💻 Code Dreamer</strong> • 
   <strong>☕ Backend Developer</strong>
 </p>
   
