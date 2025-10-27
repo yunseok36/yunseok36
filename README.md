@@ -5,7 +5,6 @@
 
 
 <p align="center">
-  <strong>☕ Backend Developer</strong>
 </p>
   
 
