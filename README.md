@@ -59,7 +59,6 @@
 
 ## 🎨 My Creative Side
 
-- 💡 **사용자 문제를 새로운 방식으로 해결합니다**  //  *I solve user problems in creative ways*
 
 
 ---
