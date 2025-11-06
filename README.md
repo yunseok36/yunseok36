@@ -58,7 +58,6 @@
 - 🛠 **직접 기획한 것을 만들어냅니다**  //  *I love building what I envision*
 - 💡 **사용자 문제를 새로운 방식으로 해결합니다**  //  *I solve user problems in creative ways*
 
-
 ---
 
 ## 🧭 Currently Learning
