@@ -35,7 +35,6 @@
 ---
 
 ## 🌟 Quote 
-- ☕ **Java** ➡️ *Solid programming fundamentals and backend foundations*
 
 ---
 
