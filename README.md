@@ -54,7 +54,7 @@
 ---
 
 ## 🎨 My Creative Side
-- 🎈 **상상을 실현하는 것을 즐깁니다**  //  *I enjoy turning imagination into reality*
+
 
 
 
