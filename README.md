@@ -63,7 +63,7 @@
 
 ## 🧭 Currently Learning
 
-- 🪙 **Blockchain** ➡️ *Decentralized systems and smart contracts*
+
 
 
 ---
