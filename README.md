@@ -36,7 +36,6 @@
 ---
 
 ## 🌟 Quote 
-- 🪙 **Blockchain** ➡️ *Decentralized systems and smart contracts*
 ---
 
 ## 🧩 Notable Projects | 주요 프로젝트
