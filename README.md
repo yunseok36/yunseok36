@@ -37,7 +37,6 @@
 
 ## 🌟 Quote 
 - 🪙 **Blockchain** ➡️ *Decentralized systems and smart contracts*
-- 🤖 **Intelligent AI** ➡️ *Machine learning for smarter products*
 ---
 
 ## 🧩 Notable Projects | 주요 프로젝트
