@@ -5,9 +5,7 @@
 
 
 
-<p align="center">
-  <strong>🧠 Creative Thinker</strong> •  
-</p>
+
 
 
 
