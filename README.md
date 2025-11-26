@@ -56,6 +56,9 @@
 ---
 
 ## 🎨 My Creative Side
+- 🎈 **상상을 실현하는 것을 즐깁니다**  //  *I enjoy turning imagination into reality*
+- 🛠 **직접 기획한 것을 만들어냅니다**  //  *I love building what I envision*
+- 💡 **사용자 문제를 새로운 방식으로 해결합니다**  //  *I solve user problems in creative ways*
 
 
 
