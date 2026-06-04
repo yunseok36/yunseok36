@@ -48,7 +48,7 @@
 
 | ✅ PROJECT | Description | 링크 |
 |---|---|---|
-| **관광버스** | 날씨·관광지 API → 감정에 맞는 여행 플래너 | [🔗 View](#) |
+| **관광버스** | 날씨·관광지 API → 감정에 맞는 여행 플래너 | https://github.com/Ketose333/tripplanner.git |
 | **깐부대출** | 친구 간 대출 기능 지원 금융 앱 | https://github.com/Blue-B/kkangbu.git |
 | **MOODI-TREE** | 감정 기반 콘텐츠 추천 서비스 | [🔗 View](#) |
 
